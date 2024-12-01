@@ -1,5 +1,7 @@
 # Weather & Clothing Advisor 🌤️👔
 
+https://what2wear4weather.com/
+
 A smart web application that provides personalized clothing recommendations based on real-time weather conditions. Built with React, TypeScript, and powered by AI.
 
 ## Features ✨
