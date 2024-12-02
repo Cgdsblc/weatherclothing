@@ -2,7 +2,8 @@
 
 https://what2wear4weather.com/
 
-A smart web application that provides personalized clothing recommendations based on real-time weather conditions. Built with bolt.new, Claude.ai & v0.dev by Vercel.
+A smart web application that provides personalized clothing recommendations based on real-time weather conditions.
+Built with bolt.new, Claude.ai & v0.dev by Vercel.
 
 ## Features
 
