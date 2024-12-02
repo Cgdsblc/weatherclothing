@@ -1,4 +1,4 @@
-# Weather & Clothing Advisor 🌤️👔
+# Weather Based Clothing Advisor 🌤️👔
 
 https://what2wear4weather.com/
 
