@@ -40,6 +40,19 @@ src/
 └── assets/          # Static assets
 ```
 
+## Areas for Improvement 🚀
+
+### Planned Enhancements
+
+1. **Customizable Notifications**
+   - Personalized notification preferences
+   - Custom alert thresholds for weather conditions
+   - Multiple notification times throughout the day
+
+2. **Enhanced Weather Forecasting**
+   - Hourly weather forecasts for better clothing planning
+   - Temperature variation alerts
+
 ## Features in Detail 🔍
 
 ### Weather Display
@@ -61,7 +74,6 @@ src/
 ### Smart Notifications
 - Daily weather updates
 - Clothing recommendations
-- Customizable notification times
 
 ## Acknowledgments 🙏
 
@@ -69,3 +81,4 @@ src/
 - Google Gemini LLM for AI capabilities
 - Firebase for backend services
 - Netlify for hosting and deployment
+- Google AdSense for monetization
