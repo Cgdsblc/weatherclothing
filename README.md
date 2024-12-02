@@ -4,7 +4,7 @@ https://what2wear4weather.com/
 
 A smart web application that provides personalized clothing recommendations based on real-time weather conditions. Built with bolt.new, Claude.ai & v0.dev by Vercel.
 
-## Features ✨
+## Features
 
 - **Real-time Weather Data**: Integrates with OpenWeatherMap API for accurate weather information
 - **AI-Powered Recommendations**: Uses Google's Gemini LLM for intelligent clothing suggestions
@@ -13,7 +13,7 @@ A smart web application that provides personalized clothing recommendations base
 - **Responsive Design**: Mobile-first approach with dynamic weather backgrounds
 - **Personalized Chat**: AI stylist chat for custom fashion advice
 
-## Tech Stack 🛠️
+## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **State Management**: React Hooks
@@ -39,7 +39,7 @@ src/
 └── assets/          # Static assets
 ```
 
-## Features in Detail 🔍
+## Features in Detail
 
 ### Weather Display
 - Current temperature
@@ -61,7 +61,7 @@ src/
 - Daily weather updates
 - Clothing recommendations
 
-## Acknowledgments 🙏
+## Acknowledgements
 
 - OpenWeatherMap API for weather data
 - Google Gemini LLM for AI capabilities
@@ -69,9 +69,7 @@ src/
 - Netlify for hosting and deployment
 - Google AdSense for monetization
 
-## Areas for Improvement 🚀
-
-### Planned Enhancements
+## Areas for Improvement
 
 1. **Customizable Notifications**
    - Personalized notification preferences
