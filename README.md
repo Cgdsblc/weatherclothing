@@ -30,7 +30,7 @@ Built with bolt.new, Claude.ai & v0.dev by Vercel.
   - TypeScript
 - **Deployment**: Netlify CI/CD
 
-## Project Structure 📁
+## Project Structure
 
 ```
 src/
