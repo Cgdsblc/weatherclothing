@@ -2,7 +2,7 @@
 
 https://what2wear4weather.com/
 
-A smart web application that provides personalized clothing recommendations based on real-time weather conditions. Built with React, TypeScript, and powered by AI.
+A smart web application that provides personalized clothing recommendations based on real-time weather conditions. Built with bolt.new, Claude.ai & v0.dev by Vercel.
 
 ## Features ✨
 
@@ -21,7 +21,6 @@ A smart web application that provides personalized clothing recommendations base
   - OpenWeatherMap API
   - Google Gemini LLM API
 - **Backend Services**: 
-  - Firebase Cloud Functions
   - Firebase Cloud Messaging
 - **Development Tools**:
   - Vite
