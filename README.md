@@ -40,19 +40,6 @@ src/
 └── assets/          # Static assets
 ```
 
-## Areas for Improvement 🚀
-
-### Planned Enhancements
-
-1. **Customizable Notifications**
-   - Personalized notification preferences
-   - Custom alert thresholds for weather conditions
-   - Multiple notification times throughout the day
-
-2. **Enhanced Weather Forecasting**
-   - Hourly weather forecasts for better clothing planning
-   - Temperature variation alerts
-
 ## Features in Detail 🔍
 
 ### Weather Display
@@ -82,3 +69,16 @@ src/
 - Firebase for backend services
 - Netlify for hosting and deployment
 - Google AdSense for monetization
+
+## Areas for Improvement 🚀
+
+### Planned Enhancements
+
+1. **Customizable Notifications**
+   - Personalized notification preferences
+   - Custom alert thresholds for weather conditions
+   - Multiple notification times throughout the day
+
+2. **Enhanced Weather Forecasting**
+   - Hourly weather forecasts for better clothing planning
+   - Temperature variation alerts
