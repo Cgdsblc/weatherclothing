@@ -69,7 +69,6 @@ src/
 - Google Gemini LLM for AI capabilities
 - Firebase for backend services
 - Netlify for hosting and deployment
-- Google AdSense for monetization
 
 ## Areas for Improvement
 
